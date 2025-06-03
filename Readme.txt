@@ -1,1 +1,0 @@
-put the inetpub folder in C: partition before running the project
